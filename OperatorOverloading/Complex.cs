@@ -12,7 +12,7 @@ namespace ConsoleApp4.OperatorOverloading
         private int y;
         public Complex()
         {
-            Console.WriteLine("Complex");
+            Console.WriteLine("XAXAXAXAXAX");
         }
         public Complex(int i, int j)
         {
